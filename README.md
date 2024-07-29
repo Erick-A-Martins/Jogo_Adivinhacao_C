@@ -3,19 +3,19 @@
 
 
 <div align="center" style="display: flex; gap: 15px;">
-  <img src="https://github.com/user-attachments/assets/8e2660e8-fb34-4715-a1c9-dc41bc5d854b" alt="Imagem 1" style="width: 280px; height: auto;">
-  <img src="https://github.com/user-attachments/assets/dee4bd53-062d-4cb2-a487-b40946be6cb8" alt="Imagem 1" style="width: 280px; height: auto;">
-  <img src="https://github.com/user-attachments/assets/54fd8ae1-3fd2-437c-a62a-3ce70292709b" alt="Imagem 1" style="width: 280px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/e587a1b7-ecea-44d3-9c87-4f6e90c857c5" alt="Imagem 1" style="width: 280px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/abe490ce-d343-4111-a0f7-a7be4a0f1bf3" alt="Imagem 1" style="width: 280px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/c61a7fba-8f0b-47ba-b03b-a9736d0fec2c" alt="Imagem 1" style="width: 280px; height: auto;">
 </div>
 
-## 🚀 Atividades realizadas
+## 🚀 Atividades realizadas no curso
 
-- **Desenvolvimento do primeiro programa em C**
-- **Entendimento o conceito de variáveis**
-- **Modificação do comportamento do programa**
-- **Utilização de estruturas condicionais e loops**
-- **Compreensão de como um compilador funciona**
-- **Construção de um jogo de adivinhação completo**
+- **Criação de funções e manipulação de arrays**
+- **Entendimento de ponteiros e endereços de memória**
+- **Manipulação de entrada e saída, e escrita em arquivos**
+- **Entendimento de boas práticas de programação**
+- **Criação de um jogo da forca completo**
+
 
 ## 🛠️ Tecnologia Utilizada
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" height="40px"/>
